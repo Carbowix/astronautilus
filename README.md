@@ -3,7 +3,7 @@
 Astronautilius is a retro space shooter game inspired from original atari game "Asteroids" made in CPP.
 
 # Compiling
-The graphics library currently supports '''Visual Studio 2019''' only and compiles on x86.
+The graphics library currently supports <b>Visual Studio 2019</b> only and compiles on x86.
 
 # Screenshots
 ![image info](./preview/screenshots/preview_intro.png)
